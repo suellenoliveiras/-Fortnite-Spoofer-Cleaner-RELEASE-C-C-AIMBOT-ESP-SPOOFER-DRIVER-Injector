@@ -61,10 +61,6 @@ To avoid that, we provide Hwid spoofers/hacks which are specially designed by ch
 
 
 
-## ✨ DONATE Buy Me Coffee
-
-BTC - 144feg2TVeVjhLfXVrKvaTzu2ViX4gYv6q
-
 
 ## Disclaimer
 This project is only for educational purposes. Therefore I'm not responsible for any harm/illegal activity that may happens. I made this project to learn more about reverse engineering and not to ruin the experience for other gamers. I will not be updating the offsets for this reason.This may not be exact code as the one in my hackathon.
